@@ -14,7 +14,7 @@ class NewViewController: UIViewController {
         super.viewDidLoad()
             //Code to print if view successfully loads
             println("print if it loaded")
-        // Do any additional setup after loading the view.
+        // Some more changes are going to be made
     }
 
     override func didReceiveMemoryWarning() {
