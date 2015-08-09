@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-    func amazingFeature() {
+    func suchAnAmazingFeature() {
         println("this is amazing")
     }
     // New comments
